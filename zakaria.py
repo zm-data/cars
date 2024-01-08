@@ -40,8 +40,3 @@ for column in filtered_df.columns:
 st.write(f'## Analyse de voitures par région ({region_filter})')
 st.write(filtered_df)
 
-
-
-#%%
-
-#%%
